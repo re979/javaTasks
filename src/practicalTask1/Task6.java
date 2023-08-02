@@ -1,5 +1,5 @@
 package practicalTask1;
-
+// Таблица умножения
 public class Task6 {
     public static void main(String[] args) {
         int k = 7;
